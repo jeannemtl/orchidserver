@@ -1,0 +1,12 @@
+# Python version: 3.8.12
+
+requests
+python-telegram-bot==20.6
+boto3>=1.33.2,<1.34.0
+google-cloud-texttospeech
+so-vits-svc-fork
+click
+Flask>=1.0,<2.0
+gunicorn
+telegram
+
